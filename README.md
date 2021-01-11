@@ -3,9 +3,9 @@ Estudos simples e anotações de analises de dados de Estatistica II com o Pytho
 
 1. Distribuição T Student
 
-Para casos de amostra de até 30 /    Graus de liberdade : n-1 /    Usar tabela Z "T Student"
+    Para casos de amostra de até 30 /    Graus de liberdade : n-1 /    Usar tabela Z "T Student"
 
-cdf : para esquerda da Distribuição /    sf : para direita da Distribuição
+    cdf : para esquerda da Distribuição /    sf : para direita da Distribuição
     
 2. DISTRIBUIÇÃO Binomial
 
