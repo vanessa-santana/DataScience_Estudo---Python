@@ -1,5 +1,6 @@
 # DataScience_Estudo-Python
 Estudos simples e anotações de analises de dados de Estatistica II com o Python, e extensão " ipynb "
+Resumo.ipybn:
 
 1. Distribuição T Student
 
@@ -28,3 +29,7 @@ Estudos simples e anotações de analises de dados de Estatistica II com o Pytho
 
     Analise de variancia /   Identifica se há diferença significativa , mas não aonde. Para saber aonde utiliza-se o TURKEY
 
+
+Regressão Logística:
+
+Semelhante a regressão lienar, porem a variavel de resposta é binaria: sucesso ou fracasso. Representado por probabilidade e pode ser multiplo ou simples
