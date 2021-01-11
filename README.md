@@ -9,22 +9,22 @@ Estudos simples e anotações de analises de dados de Estatistica II com o Pytho
     
 2. DISTRIBUIÇÃO Binomial
 
-Discreta /    Eventos que tem q ter carct /    num fixo de experimento /    possibilidade de sucesso ou fracasso /    eventos independentes
+    Discreta /    Eventos que tem q ter carct /    num fixo de experimento /    possibilidade de sucesso ou fracasso /    eventos independentes
 
-pmf = prob pontual /    cdf = prob acumulativa
+    pmf = prob pontual /    cdf = prob acumulativa
     
 3. Distribuição de Poisson
 
-Mede a prob da ocorrencia em prob de tempo /    cada evento deve ser independente
+    Mede a prob da ocorrencia em prob de tempo /    cada evento deve ser independente
 
-pontual : pmf
-acumulativa: cdf (esquerda) /  maior que: sf (direito)
+    pontual : pmf
+    acumulativa: cdf (esquerda) /  maior que: sf (direito)
   
 4. Distribuição Qui Quadrado
 
-Teste de Hipotese /    Se existe diferença significativa /    Baseado em cálculo de proporção
+    Teste de Hipotese /    Se existe diferença significativa /    Baseado em cálculo de proporção
     
 5. DISTRIBUIÇÃO DE ANOVA / TURKEY
 
-Analise de variancia /   Identifica se há diferença significativa , mas não aonde. Para saber aonde utiliza-se o TURKEY
+    Analise de variancia /   Identifica se há diferença significativa , mas não aonde. Para saber aonde utiliza-se o TURKEY
 
