@@ -1,5 +1,6 @@
 # DataScience_Estudo-Python
 Estudos simples e anotações de analises de dados de Estatistica II com o Python, e extensão " ipynb "
+
 Resumo.ipybn:
 
     Distribuição T Student
